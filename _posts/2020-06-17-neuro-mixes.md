@@ -1,7 +1,6 @@
 ---
 title: Neuro-Mixes
-tags: music
-tags: opensource
+tags: music, opensource
 ---
 ## Mixing an album with OpenSource
 
