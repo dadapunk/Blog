@@ -7,7 +7,7 @@ services:
       - JEKYLL_ENV
     ports:
       - 4000:4000
-    container_name: jekyll-text-theme_build
+    container_name: jekyll-blog
     volumes:
       - ..:/usr/src/app
     command: bundle exec jekyll build
